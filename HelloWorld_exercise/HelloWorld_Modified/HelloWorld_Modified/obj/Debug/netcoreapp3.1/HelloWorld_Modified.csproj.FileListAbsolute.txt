@@ -1,0 +1,11 @@
+C:\Users\nevie\Desktop\HelloWorld_exercise\HelloWorld_Modified\HelloWorld_Modified\bin\Debug\netcoreapp3.1\HelloWorld_Modified.exe
+C:\Users\nevie\Desktop\HelloWorld_exercise\HelloWorld_Modified\HelloWorld_Modified\bin\Debug\netcoreapp3.1\HelloWorld_Modified.deps.json
+C:\Users\nevie\Desktop\HelloWorld_exercise\HelloWorld_Modified\HelloWorld_Modified\bin\Debug\netcoreapp3.1\HelloWorld_Modified.runtimeconfig.json
+C:\Users\nevie\Desktop\HelloWorld_exercise\HelloWorld_Modified\HelloWorld_Modified\bin\Debug\netcoreapp3.1\HelloWorld_Modified.runtimeconfig.dev.json
+C:\Users\nevie\Desktop\HelloWorld_exercise\HelloWorld_Modified\HelloWorld_Modified\bin\Debug\netcoreapp3.1\HelloWorld_Modified.dll
+C:\Users\nevie\Desktop\HelloWorld_exercise\HelloWorld_Modified\HelloWorld_Modified\bin\Debug\netcoreapp3.1\HelloWorld_Modified.pdb
+C:\Users\nevie\Desktop\HelloWorld_exercise\HelloWorld_Modified\HelloWorld_Modified\obj\Debug\netcoreapp3.1\HelloWorld_Modified.csprojAssemblyReference.cache
+C:\Users\nevie\Desktop\HelloWorld_exercise\HelloWorld_Modified\HelloWorld_Modified\obj\Debug\netcoreapp3.1\HelloWorld_Modified.AssemblyInfoInputs.cache
+C:\Users\nevie\Desktop\HelloWorld_exercise\HelloWorld_Modified\HelloWorld_Modified\obj\Debug\netcoreapp3.1\HelloWorld_Modified.AssemblyInfo.cs
+C:\Users\nevie\Desktop\HelloWorld_exercise\HelloWorld_Modified\HelloWorld_Modified\obj\Debug\netcoreapp3.1\HelloWorld_Modified.dll
+C:\Users\nevie\Desktop\HelloWorld_exercise\HelloWorld_Modified\HelloWorld_Modified\obj\Debug\netcoreapp3.1\HelloWorld_Modified.pdb
